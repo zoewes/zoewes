@@ -1,4 +1,4 @@
-<h1>heya, i'm zoey!</h1>
+<h1>heya, i'm zoeye!</h1>
 
 ### Some stats!
 <!--START_SECTION:waka-->
